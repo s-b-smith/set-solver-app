@@ -1,0 +1,11 @@
+node_modules
+build
+public
+**/*.json
+webpack.config.js
+/app-example
+/.expo
+/assets
+/scripts
+babel.config.js
+expo-env.d.ts
