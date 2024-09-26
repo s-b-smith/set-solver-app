@@ -1,15 +1,5 @@
-import { Text, View } from 'react-native';
+import Splash from './page/Splash';
 
-const Index = () => (
-  <View
-    style={{
-      flex: 1,
-      justifyContent: 'center',
-      alignItems: 'center'
-    }}
-  >
-    <Text>Edit app/index.tsx to edit this screen.</Text>
-  </View>
-);
+const Index = () => <Splash />;
 
 export default Index;
